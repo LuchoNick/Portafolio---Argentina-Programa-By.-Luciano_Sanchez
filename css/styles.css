@@ -1,0 +1,37 @@
+h2 {
+    color: red;
+}
+
+#cuerpo {
+
+    background-color: lightblue;
+}
+
+#superior {
+
+    background-color: lightblue;
+    padding-top: 25px;
+    
+}
+
+.Barra_Navegacion {
+
+    background-color: Blue;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
+
+
+.boton{
+
+    color: black;
+    padding: center;
+    
+}
+
+#cuerpo {
+
+    background-color: lightblue;
+}
